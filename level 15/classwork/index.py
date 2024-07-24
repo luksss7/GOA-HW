@@ -1,0 +1,1 @@
+namees = ["tato", "lasha", "gioi", "saba"]
